@@ -65,5 +65,5 @@ The dataset contains restaurant information, including:
 ## 🔗 How to Run
 1. Clone the repo:
 ```bash
-git clone <your-repo-link>
+git clone <Zomato-data-Analysis/Zomato_data_analysis.ipynb>
 
