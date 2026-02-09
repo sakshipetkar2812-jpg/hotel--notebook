@@ -8,7 +8,7 @@ import numpy as np
 conn= mysql.connector.connect(
     host="localhost",
     user="root",
-    password="7984455774sak"
+    password="user_password"
 )
 
 cursor =conn.cursor()
@@ -98,3 +98,4 @@ insert_csv_data("data_science_team.csv", "data_science_team", dtype_mapping={
 cursor.close()
 conn.close()
 print("All tasks completed")
+
